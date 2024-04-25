@@ -1,0 +1,42 @@
+{
+    "293T_hilic_neg_khipu.json": {
+        "total_kps": 5973,
+        "in_model": 202
+    },
+    "293T_hilic_pos_khipu.json": {
+        "total_kps": 2247,
+        "in_model": 243
+    },
+    "293T_rp_neg_khipu.json": {
+        "total_kps": 754,
+        "in_model": 28
+    },
+    "293T_rp_pos_khipu.json": {
+        "total_kps": 1781,
+        "in_model": 123
+    },
+    "AML_hilic_neg_khipu.json": {
+        "total_kps": 1290,
+        "in_model": 128
+    },
+    "AML_hilic_pos_khipu.json": {
+        "total_kps": 1083,
+        "in_model": 194
+    },
+    "AML_rp_neg_khipu.json": {
+        "total_kps": 1068,
+        "in_model": 41
+    },
+    "AML_rp_pos_khipu.json": {
+        "total_kps": 2534,
+        "in_model": 146
+    },
+    "st001776.json": {
+        "total_kps": 537,
+        "in_model": 105
+    },
+    "st001776_limited.json": {
+        "total_kps": 524,
+        "in_model": 109
+    }
+}
